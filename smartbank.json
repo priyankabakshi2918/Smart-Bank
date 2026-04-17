@@ -1,0 +1,47 @@
+{
+  "admin@bank.com": {
+    "name": "Admin",
+    "pwd": "admin123",
+    "accounts": [
+      {
+        "type": "Savings",
+        "no": "1234567890",
+        "bal": 50000.0,
+        "history": [
+          {
+            "date": "16-Apr-2025",
+            "desc": "Opening Deposit",
+            "amt": 50000,
+            "type": "CR"
+          }
+        ]
+      },
+      {
+        "type": "Current",
+        "no": "9876543210",
+        "bal": 120000.0,
+        "history": [
+          {
+            "date": "16-Apr-2025",
+            "desc": "Opening Deposit",
+            "amt": 120000,
+            "type": "CR"
+          }
+        ]
+      },
+      {
+        "type": "Current",
+        "no": "5277708368",
+        "bal": 23000.0,
+        "history": [
+          {
+            "date": "16-Apr-2026 22:52",
+            "desc": "Opening Deposit",
+            "amt": 23000.0,
+            "type": "CR"
+          }
+        ]
+      }
+    ]
+  }
+}

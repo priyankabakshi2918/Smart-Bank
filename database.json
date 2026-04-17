@@ -1,0 +1,36 @@
+{
+    "admin@tech.com": {
+        "name": "Admin_Root",
+        "password": "admin",
+        "role": "Administrator",
+        "history": [
+            {
+                "login": "08:00 AM",
+                "logout": "Active"
+            }
+        ]
+    },
+    "priyanka123@gmail.com": {
+        "name": "priyanka",
+        "password": "1234",
+        "role": "Viewer",
+        "history": [
+            {
+                "login": "11:35 PM",
+                "logout": "Active"
+            }
+        ]
+    },
+    "sanvi123@gmail.com": {
+        "name": "sanvi",
+        "password": "123",
+        "role": "Viewer",
+        "history": [
+            {
+                "login": "11:58 PM",
+                "logout": "Active"
+            }
+        ],
+        "status": "Active"
+    }
+}

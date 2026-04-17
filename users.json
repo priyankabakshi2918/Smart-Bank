@@ -1,0 +1,31 @@
+{
+    "admin@tech.com": {
+        "name": "Admin",
+        "email": "admin@tech.com",
+        "password": "admin123",
+        "role": "Admin"
+    },
+    "priyanka123@gamil.com": {
+        "name": "priyanka",
+        "email": "priyanka123@gamil.com",
+        "password": "1234",
+        "role": "Viewer"
+    },
+    "priyanka123@gmail.com": {
+        "name": "priyanka",
+        "email": "priyanka123@gmail.com",
+        "password": "1234",
+        "role": "Viewer"
+    },
+    "priyanka234@gmail": {
+        "name": "priyanka",
+        "password": "1234",
+        "role": "Customer",
+        "avatar": "user_new"
+    },
+    "priyanka234@gmail.com": {
+        "name": "priyanka",
+        "password": "123",
+        "role": "Customer"
+    }
+}

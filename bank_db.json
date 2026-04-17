@@ -1,0 +1,14 @@
+{
+    "admin@bank.com": {
+        "name": "priyanka",
+        "password": "admin123",
+        "accounts": [
+            {
+                "type": "Savings",
+                "number": "9832939054",
+                "balance": 2345.0,
+                "min_balance": 1000
+            }
+        ]
+    }
+}

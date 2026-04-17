@@ -1,0 +1,53 @@
+{
+  "admin@bank.com": {
+    "name": "Admin",
+    "pwd": "admin123",
+    "acc": [
+      {
+        "type": "Savings",
+        "no": "1234567890",
+        "bal": 50000,
+        "hist": [
+          {
+            "d": "16-Apr",
+            "desc": "Opening",
+            "amt": 50000,
+            "t": "CR"
+          }
+        ]
+      },
+      {
+        "type": "Current",
+        "no": "9876543210",
+        "bal": 120000,
+        "hist": [
+          {
+            "d": "16-Apr",
+            "desc": "Opening",
+            "amt": 120000,
+            "t": "CR"
+          }
+        ]
+      }
+    ]
+  },
+  "test@bank.com": {
+    "name": "Test User",
+    "pwd": "test123",
+    "acc": [
+      {
+        "type": "Savings",
+        "no": "5555566666",
+        "bal": 25000,
+        "hist": [
+          {
+            "d": "16-Apr",
+            "desc": "Opening",
+            "amt": 25000,
+            "t": "CR"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+    "admin@tech.com": {
+        "name": "Admin Root",
+        "password": "admin",
+        "role": "Admin",
+        "age": 32,
+        "loc": "California, USA",
+        "status": "Active",
+        "history": [
+            {
+                "login": "08:00 AM",
+                "logout": "Active"
+            }
+        ]
+    },
+    "priyanka@tech.com": {
+        "name": "Priyanka",
+        "password": "123",
+        "role": "Viewer",
+        "age": 22,
+        "loc": "Delhi, India",
+        "status": "Active",
+        "history": [
+            {
+                "login": "09:30 AM",
+                "logout": "Active"
+            }
+        ]
+    },
+    "rahul@tech.com": {
+        "name": "Rahul Sharma",
+        "password": "123",
+        "role": "Editor",
+        "age": 28,
+        "loc": "Mumbai, India",
+        "status": "Active",
+        "history": [
+            {
+                "login": "10:00 AM",
+                "logout": "06:00 PM"
+            }
+        ]
+    },
+    "amit@tech.com": {
+        "name": "Amit Verma",
+        "password": "123",
+        "role": "Admin",
+        "age": 35,
+        "loc": "Bangalore, India",
+        "status": "Active",
+        "history": [
+            {
+                "login": "08:45 AM",
+                "logout": "Active"
+            }
+        ]
+    },
+    "sneha@tech.com": {
+        "name": "Sneha K.",
+        "password": "123",
+        "role": "Viewer",
+        "age": 24,
+        "loc": "Pune, India",
+        "status": "Inactive",
+        "history": [
+            {
+                "login": "11:00 AM",
+                "logout": "11:30 AM"
+            }
+        ]
+    },
+    "john@tech.com": {
+        "name": "John Doe",
+        "password": "123",
+        "role": "Editor",
+        "age": 40,
+        "loc": "London, UK",
+        "status": "Active",
+        "history": [
+            {
+                "login": "07:00 AM",
+                "logout": "Active"
+            }
+        ]
+    },
+    "priya123@gmail.com": {
+        "name": "priya",
+        "password": "1234",
+        "role": "Viewer",
+        "age": "23",
+        "loc": "ambala",
+        "status": "Active",
+        "history": []
+    },
+    "priyanka123@gmail.com": {
+        "name": "priyanka",
+        "password": "1234",
+        "role": "Viewer",
+        "age": "23",
+        "loc": "ambala",
+        "status": "Active",
+        "history": []
+    }
+}

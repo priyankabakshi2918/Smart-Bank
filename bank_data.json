@@ -1,0 +1,7 @@
+{
+    "admin@bank.com": {
+        "name": "priyanka",
+        "password": "admin123",
+        "accounts": []
+    }
+}
